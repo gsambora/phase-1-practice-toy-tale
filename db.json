@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
@@ -47,6 +47,36 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Cinnamoroll",
+      "image": "https://wallpapers.com/images/featured/vyc64jzpmoc073gd.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Kitty",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTL7k2hR1Vf7x01_2Jjs4DMZ461LqzVV_Kyk8p1Ey2&s",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Kitty",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTL7k2hR1Vf7x01_2Jjs4DMZ461LqzVV_Kyk8p1Ey2&s",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Kitty #3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTL7k2hR1Vf7x01_2Jjs4DMZ461LqzVV_Kyk8p1Ey2&s",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Kitten #4",
+      "image": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
